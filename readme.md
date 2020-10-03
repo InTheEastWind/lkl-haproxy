@@ -15,5 +15,9 @@ https://github.com/tcp-nanqinlang/lkl-haproxy/releases
 中文文档  
 https://github.com/tcp-nanqinlang/wiki/wiki/lkl-haproxy
 
+## lalala
+`
 
-`wget https://raw.githubusercontent.com/InTheEastWind/lkl-haproxy/master/ovzbbr-debian.sh && chmod +x ovzbbr-debian.sh && bash ovzbbr-debian.sh`
+wget https://raw.githubusercontent.com/InTheEastWind/lkl-haproxy/master/ovzbbr-debian.sh && chmod +x ovzbbr-debian.sh && bash ovzbbr-debian.sh
+
+`
